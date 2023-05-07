@@ -1,0 +1,330 @@
+ @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@700&family=Source+Code+Pro:wght@600&display=swap');
+
+#caja1 { 
+    margin-bottom: 0%; 
+    padding-bottom: 0%;
+    padding-top: 200px; 
+    display: flex;
+    flex-direction: row;
+}
+
+#inicio {height: 0px;    
+width: 100%;
+margin-top: 0%;
+position: absolute;
+}
+
+main {
+    display: block;
+    padding-top: 100px;
+}
+
+
+.botones {
+    margin: auto;
+}
+
+.big-text {
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Fira Mono', monospace;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+}
+
+.boton {
+    display: block;
+    width: 260px;
+    background-color: #1A237E;
+    border-radius: 10px;
+    padding: 20px ;
+    margin: 10px;
+}
+
+
+.titulo {color: #1A237E;
+font-size: 100px;
+position: absolute; 
+padding-left: 70px;
+padding-top: 10px;
+float: left;
+margin-bottom: 0%;
+font-family:'PT Mono', monospace  ;
+position: absolute;
+}
+
+
+.li {background-color: #1F2D5E;
+border: 15px;
+text-align: center;
+color: whitesmoke;
+font-size: 10px;
+margin: 4px 2px;
+font-family:'PT Mono', monospace ;
+padding-left: 50px;
+}
+
+#fresco { background-color: #1F2D5E; 
+height: 950px;    
+width: 1828px;
+margin-top: 0%;
+position: ;}
+
+.sub1 {color: whitesmoke; 
+font-size: 100px;   
+font-family: 'DM Serif Display', serif; 
+padding-left: 600px;
+padding-top: 80px;
+padding-bottom: 0px;
+
+}
+
+.sub {color: whitesmoke;
+padding-left: 300px ;
+font-family:'PT Mono', monospace ;}
+
+
+
+
+
+
+
+.Moldear {height: 450px;
+padding-left: 335px;
+padding-top: 70px;
+}
+
+.Torno {height: 450px;
+padding-left: 150px;
+padding-top: 70px ;}
+
+
+.Estapar {height: 450px;
+padding-left: 150px;
+padding-top: 70px ;}
+
+
+
+
+
+
+#tiempo1 {border-color: #1A237E;
+height: 50px;
+width: 18284;
+
+}
+
+.tiempo { color: #1A237E;
+margin-left: 390px; 
+padding-top: 30px;
+font-family:'PT Mono', monospace ;
+margin-bottom: 0%;
+
+}
+
+
+#tiempo2 {border-color: #1A237E;
+height: 50px;
+width: 18284}
+
+.tiempo22 {color: #1A237E;
+margin-left: 460px; 
+padding-top: 30px;
+font-family:'PT Mono', monospace ;
+margin-bottom: 0%;}
+
+
+
+
+
+
+#cuero { background-color: #E6E6E2; 
+height: 950px;    
+width: 1828px;   
+margin-top: 0%;
+}
+
+.sub2 {color: #1F2D5E; 
+font-size: 100px;   
+font-family: 'DM Serif Display', serif; 
+padding-left: 750px;
+padding-top: 80px;
+padding-bottom: 0px;}
+
+.sub22 {color: #1F2D5E;
+padding-left: 50px ;
+font-family:'PT Mono', monospace ;
+font-display: middle;
+}
+
+.Cuero {height: 450px;
+padding-left: 285px;
+padding-top: 70px;}
+    
+.Cuero1 {height: 450px;
+padding-left: 150px;
+padding-top: 70px;
+}
+    
+.Cuero2 {height: 450px;
+padding-left: 150px;
+padding-top: 70px ;}
+
+
+
+
+.Hueso {height: 450px;
+padding-left: 285px;
+padding-top: 70px;}
+
+.Pintura {height: 450px;
+padding-left: 150px;
+padding-top: 70px;
+}
+
+.Hueso1 {height: 450px;
+padding-left: 150px;
+padding-top: 70px ;}
+
+
+
+
+
+
+#horno {border-color: #1A237E;
+height: 50px;
+width: 18284
+}
+
+.hornito {color: #1A237E;
+margin-left: 200px; 
+padding-top: 30px;
+font-family:'PT Mono', monospace ;
+margin-bottom: 0%;}
+
+
+
+
+
+
+#hueso {background-color: #1F2D5E; 
+height: 950px;    
+width: 1828px;   
+margin-top: 0%;
+}
+
+.huesito{color: whitesmoke; 
+font-size: 100px;   
+font-family: 'DM Serif Display', serif; 
+padding-left: 800px;
+padding-top: 80px;
+padding-bottom: 0px;
+}
+
+.huesito2 {color: whitesmoke;
+padding-left: 300px ;
+font-family:'PT Mono', monospace;
+font-display: middle;
+}
+
+
+
+
+#bizcocho {background-color: #E6E6E2; 
+height: 950px;    
+width: 1828px;   
+margin-top: 0%;
+}
+
+.sub3 {color:#1F2D5E ; 
+font-size: 100px;   
+font-family: 'DM Serif Display', serif; 
+padding-left: 705px;
+padding-top: 80px;
+padding-bottom: 0px;}
+
+.sub33 {color: #1F2D5E;
+padding-left: 150px ;
+font-family:'PT Mono', monospace ;
+font-display: middle;
+}
+
+.Bizcocho {height: 400px;
+padding-left: 650px;
+padding-top: 70px;
+;
+}
+
+
+#horno2{border-color: #1A237E;
+height: 50px;
+width: 18284;
+margin-bottom: 10px;
+}
+
+.hornito2 {color: #1A237E;
+margin-left: 100px; 
+padding-top: 30px;
+font-family:'PT Mono', monospace ;
+margin-bottom: 10px;
+}
+
+#esmalte {height: 950px;    
+width: 1828px;   
+margin-top: 0%;
+}
+
+.Tazas {height: 950px;
+padding-top: 60px;}
+
+.esmalte1 {color:#1F2D5E ; 
+font-size: 100px;   
+font-family: 'DM Serif Display', serif; 
+padding-left: 650px;
+padding-top: 80px;
+padding-bottom: 0px;
+position: absolute;}
+
+.esmalte2 {color: #1A237E;
+padding-left: 650px;
+margin-left: 100px; 
+padding-top: 0px;
+padding-bottom: 500px;
+font-family:'PT Mono', monospace ;
+margin-bottom: 10px;
+position: absolute;
+}
+
+#ft {width:width: 1828px;
+height: 100px;
+}
+
+#ftr {text-align: center;
+font-family:'Fira Mono', monospace; ;
+}
+.mail {height: 25px; position: center ;}
+
+.gmail {margin-left: 800px ;display: flex;
+    flex-direction: row;}
+
+.web {text-decoration: none;}
+.x3 {text-decoration: none;}
+.ig {margin-left: 800px ;display: flex;
+flex-direction: row;
+text-decoration: none}
+
+.svg {margin-left: 668px; margin-bottom: 200px ; position: absolute; align-content: center;}
+
+.final {color: #1F2D5E;
+padding-left: 730px ;
+font-family:'PT Mono', monospace ;
+font-display: middle;
+position: absolute;
+margin-bottom: 100px;
+margin-top: 370px;
+}
+.cachito {display: flex;
+flex-direction: row;}
